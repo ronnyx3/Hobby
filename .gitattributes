@@ -1,2 +1,2 @@
-*.c# linguist-detectable=true
+*.cs linguist-detectable=true
 *.java linguist-detectable=false
