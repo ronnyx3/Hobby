@@ -1,7 +1,3 @@
-*.c# linguist-detectable=true
-*.java linguist-detectable=false
-*.html linguist-detectable=false
-*.xml linguist-detectable=false
 package com.rong.bots.YakFighter;
 
 import com.runemate.game.api.hybrid.entities.Npc;
