@@ -1,3 +1,4 @@
+*.java linguist-language=C#;
 package com.rong.bots.YakFighter;
 
 import com.runemate.game.api.hybrid.entities.Npc;
